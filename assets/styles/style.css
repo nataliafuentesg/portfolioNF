@@ -308,6 +308,22 @@ body{
     transform: translateY(-5px);
 }
 
+.about-social-media .info h3 {
+    color: #fff;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.about-social-media .info p {
+    color: #ccc;
+    font-size: 14px;
+}
+
+.about-social-media{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 50px;
+}
 
 footer{
     position: relative;
