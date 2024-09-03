@@ -21,7 +21,7 @@ body{
 }
 
 .navbar h2{
-    color: #ffb742;
+    color: #ff0000;
     font-weight: 600;
 }
 
@@ -42,7 +42,7 @@ body{
 }
 
 .navbar ul li:hover a{
-    color: #ffb742;
+    color: #ff0000;
 }
 
 .navbar ul li:last-child a{
@@ -50,7 +50,7 @@ body{
 }
 
 .hire-btn{
-    background: #ffb742;
+    background: #ff0000;
     padding: 6px 30px;
     border: none;
     font-size: 16px;
@@ -60,7 +60,7 @@ body{
 }
 
 .hire-btn:hover{
-    background: #fb8c00;
+    background: #fd3f3f;
 }
 
 .hire-btn a{
@@ -86,21 +86,23 @@ body{
 }
 
 .main h4 span{
-    color: #ffb742;
+    color: #ff0000;
     text-decoration: underline;
 }
 
 .main p.title{
-    font-size: 44px;
+    font-size: 34px;
     font-weight: 600;
     color: #fff;
     margin-top: 8px;
+    text-align: center;
 }
 
 .main p.subtitle{
-    font-size: 16px;
+    font-size: 20px;
     color: #ccc;
     margin-top: 20px;
+    text-align: center;
 }
 
 .main img{
@@ -132,7 +134,7 @@ body{
 }
 
 .guarantee .item:hover{
-    border-color: #ffb742;
+    color: #ff0000;
 }
 
 .guarantee .item .icon{
@@ -146,7 +148,7 @@ body{
 }
 
 .guarantee .item:hover .icon{
-    color: #ffb742;
+    color: #ff0000;
 }
 
 .guarantee .item .icon i{
@@ -160,7 +162,7 @@ body{
 }
 
 .guarantee .item .info h3{
-    color: #ffb742;
+    color: #ff0000;
     font-size: 28px;
 }
 
@@ -177,7 +179,7 @@ body{
 }
 
 .guarantee .item:hover > i{
-    color: #ffb742;
+    color: #ff0000;
 }
 
 .seprator{
@@ -185,7 +187,7 @@ body{
     padding: 10px 20px;
     background: rgba(255, 255, 255, 0.08);
     display: inline-block;
-    color: #ffb742;
+    color: #ff0000;
     border-radius: 12px;
 }
 
@@ -291,7 +293,7 @@ body{
 }
 
 .project-card h3 {
-    color: #ffb742;
+    color: #ff0000;
     font-size: 24px;
     margin-top: 10px;
 }
@@ -319,7 +321,7 @@ footer .start{
     align-items: center;
     justify-content: space-around;
     position: absolute;
-    background-color: #ffb742;
+    background-color: #ff0000;
     padding: 30px 25px;
     border-radius: 15px;
     width: 70%;
@@ -356,7 +358,7 @@ footer .cols .about-col{
 }
 
 footer .cols .about-col h3{
-    color: #ffb742;
+    color: #ff0000;
     margin-bottom: 20px;
 }
 
@@ -384,7 +386,7 @@ footer .cols .links-col a{
 }
 
 footer .cols .links-col a:hover{
-    color: #ffb742;
+    color: #ff0000;
 }
 
 footer .cols .news-col{
@@ -418,7 +420,7 @@ footer .cols .news-col form button{
     justify-content: center;
     width: 45px;
     height: 45px;
-    background: #ffb742;
+    background: #ff0000;
     border: none;
     border-radius: 50%;
     position: absolute;
@@ -429,7 +431,7 @@ footer .cols .news-col form button{
 }
 
 footer .cols .news-col form button:hover{
-    background-color: #fb8c00;
+    background-color: #fb4040;
 }
 
 footer .cols .news-col form button i{
